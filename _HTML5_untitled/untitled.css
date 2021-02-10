@@ -1,0 +1,244 @@
+/*
+	@name untitled
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 360px; height: 640px; margin-left: auto; margin-right: auto;  }
+
+#_bg__home {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 640px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 55px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 55px;
+	left: 0px;
+	width: 360px;
+	height: 38px;
+	background:rgba(126,67,11,1);
+}
+
+
+#top_item {
+	top: 65px;
+	left: 14px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 100px;
+	left: 15px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	color:#7E430B;
+}
+
+
+#new_menu {
+	top: 65px;
+	left: 99px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#FFFFFF;
+}
+
+
+#category {
+	top: 65px;
+	left: 202px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#FFFFFF;
+}
+
+
+#promo {
+	top: 65px;
+	left: 287px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 55px;
+	background:rgba(126,67,11,1);
+}
+
+
+#_0_00 {
+	top: 17px;
+	left: 275px;
+	width: 260px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+	line-height: 18px;
+	color:#FFFFFF;
+}
+
+
+#panbaker_s {
+	top: 13px;
+	left: 14px;
+	width: 266px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#FFFFFF;
+}
+
+#shopping_cart_1 {
+	top: 10px;
+	left: 315px;
+	width: 35px;
+	height: 35px;
+}
+
+#vector {
+	top: -8px;
+	left: -315px;
+	width: 35px;
+	height: 31.22px;
+}
+
+
+#tombol_item {
+	top: 132px;
+	left: 14px;
+	width: 151px;
+	height: 230px;
+}
+
+
+#tombol_item_ek1 {
+	top: 132px;
+	left: 193px;
+	width: 151px;
+	height: 230px;
+}
+
+
+#tombol_item_ek2 {
+	top: 380px;
+	left: 15px;
+	width: 151px;
+	height: 230px;
+}
+
+
+#tombol_item_ek3 {
+	top: 380px;
+	left: 187px;
+	width: 151px;
+	height: 230px;
+}
+
+
+#powered_by_simple_it_solutions {
+	top: 620px;
+	left: 2px;
+	width: 342px;
+	height: 27.5px;
+	overflow: hidden;
+	font-family: Times New Roman;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 13px;
+	color:#BDBDBD;
+}
+
+
+#panbekers_beef_burger_1 {
+	top: 132px;
+	left: 15px;
+	width: 150px;
+	height: 101.32px;
+}
+
+
+#panbekers_beef_burger_3 {
+	top: 380px;
+	left: 16px;
+	width: 150px;
+	height: 101.32px;
+}
+
+
+#panbekers_beef_burger_4 {
+	top: 382px;
+	left: 187px;
+	width: 150px;
+	height: 101.32px;
+}
+
+
+#panbekers_beef_burger_2 {
+	top: 132px;
+	left: 194px;
+	width: 150px;
+	height: 101.32px;
+}
+
+
+
+/* Add your custom CSS here */

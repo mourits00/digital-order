@@ -1,0 +1,145 @@
+body {
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header-default {
+  background-color: #7E430B;
+  width : 100%;
+  height : 55px;
+  
+  
+}
+
+.logo-default {
+  font-size : 30px;
+  color : white;
+  margin-left : 15px;
+  font-style : normal;
+}
+
+.harga-default {
+  font-size : 18px;
+  color : white;
+  margin-left : 90px;
+  
+}
+
+.shopping-default {
+  color : white;
+  border : 0;
+  font-size : 30px;
+  margin-right : -10px;
+  background-color : transparent;
+}
+
+
+.menu-default {
+  background-color : #7E430B;
+  width : 100%;
+  height : 43px;
+  color : white;
+  margin-right : 50px;
+}
+a {
+  color : white !important;
+}
+.content-default {
+  width : 80%;
+  align-items : center;
+  max-height :80%;
+  overflow-y: auto;
+}
+
+.footer-default {
+  background-color: white;
+  color : gray;
+  width : 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.header-content {
+  color : #7E430B;
+  font-size: 18px;
+  font-weight: bold;
+  
+  padding-top : 10px;
+  padding-left : 15px;
+  padding-bottom : 10px;
+  
+}
+
+.pilihan-menu {
+  color : white;
+  font-size : 18px !important;
+  width : 100%;
+  background-color: transparent;
+  padding-left : -5px;
+  padding-right : -10px;
+}
+
+#RowMenu {
+    margin-bottom : 15px;
+}
+
+
+
+.btn-menu {
+  margin-top: 5px;
+  margin-bottom : 30px;
+  height : 230px;
+  background-color: white;
+  border : 0;
+  box-shadow: 5px 10px 8px #888888;
+  width : 100%;
+  
+}
+
+.gambar-menu {
+  width : 110%;
+  margin-left : -7px;
+  margin-top : -50px;
+  height : 40%;
+  
+}
+
+.nama-menu, .harga-menu {
+  font-size : 13px;
+  color : #7E430B;
+  font-weight: bold;
+  margin-bottom: -50px;
+}
+
+.deskripsi-menu {
+  font-size : 9px;
+  font-style: normal;
+  color : gray;
+  margin-bottom: -50px;
+}
+
+.order-menu {
+  border : 1px;
+  width : 100%;
+  font-size : 18px;
+  color : white;
+  background-color: #7E430B;
+  border-radius: 5px;
+  vertical-align: middle;
+  height: 25px;
+  margin-bottom : -10px;
+}
+
+.col-xs-3 {
+  padding : 0px;
+
+}
+
+.text-menu-left {
+  margin-left : 15px;
+}
+
+.text-menu-right {
+  margin-right : 15px;
+}
+
